@@ -1,0 +1,6 @@
+C:\Sathish\Interviews\Transact\FancyPants\FancyPants\bin\Debug\FancyPants.exe.config
+C:\Sathish\Interviews\Transact\FancyPants\FancyPants\bin\Debug\FancyPants.exe
+C:\Sathish\Interviews\Transact\FancyPants\FancyPants\bin\Debug\FancyPants.pdb
+C:\Sathish\Interviews\Transact\FancyPants\FancyPants\obj\Debug\FancyPants.csprojResolveAssemblyReference.cache
+C:\Sathish\Interviews\Transact\FancyPants\FancyPants\obj\Debug\FancyPants.exe
+C:\Sathish\Interviews\Transact\FancyPants\FancyPants\obj\Debug\FancyPants.pdb
